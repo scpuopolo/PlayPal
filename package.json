@@ -1,0 +1,12 @@
+{
+  "name": "PlayPal",
+  "version": "1.0.0",
+  "description": "PlayPal is a web application that allows user to keep track of their board games and decide which game to play.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Scott Puopolo",
+  "license": "UNLICENSED"
+}
